@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main_div">
+        <div class="left_div">
+            <div class="vertical_line"></div>
+            <div class="FVJ">Form Validation JavaScript</div>
+        </div>
+        <form id ="right_div" class="right_div">
+            <div class="div_header">Form Validation</div>
+            
+            <div class="div1">
+                <label for="full_name" class="label_full_name">Full Name</label>
+                <input type="text" id="full_name" class="full_name" placeholder="Enter your name">
+            </div>
+            
+            <div class="div2">
+                <label for="email" class="label_email">Email Address</label>
+                <input type="text" id="email" class="email" placeholder="Enter your email address">
+            </div>
+            
+            <div class="div3">
+                <label for="password" class="label_password">Password</label>
+                <input type="password" id="password" class="password" placeholder="Enter your password">
+            </div>
+            
+            <div class="div4">
+                <label for="birthdate" class="label_birthdate">Birth Date</label>
+                <input type="date" id="birthdate" class="birthdate" placeholder="DD-MM-YYYY">
+            </div>
+            
+            <div class="div5"> 
+                <label for="gender" class="gender">Gender</label>
+                
+                <select id="gender" class="gender">
+                    <option value="" disabled selected>Select an option</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="others">Others</option>
+                </select>
+                
+                <div class="div6">
+                    <button type="reset" class="clear">Clear</button>
+                    <button type="submit" class="submit">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+
+</body>
+</html>

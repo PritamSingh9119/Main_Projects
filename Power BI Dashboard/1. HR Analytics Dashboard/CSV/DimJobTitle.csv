@@ -1,0 +1,56 @@
+﻿JobTitleID,DepartmentID,JobTitle,PayGrade,Level
+1,9,Customer Service Representative,4,Specialist Roles
+2,9,Service Manager,2,Middle Management
+3,9,Technical Support Specialist,4,Specialist Roles
+4,9,Warranty Claims Analyst,4,Specialist Roles
+5,9,Customer Experience Manager,3,Team Leaders
+6,3,HR Manager,2,Middle Management
+7,3,Recruitment Specialist,4,Specialist Roles
+8,3,Training and Development Coordinator,4,Specialist Roles
+9,3,Compensation and Benefits Analyst,4,Specialist Roles
+10,3,Employee Relations Manager,4,Specialist Roles
+11,1,Sales Manager,1,Top Management
+12,1,Marketing Coordinator,3,Team Leaders
+13,1,Brand Manager,2,Middle Management
+14,1,Market Research Analyst,4,Specialist Roles
+15,1,Digital Marketing Specialist,4,Specialist Roles
+16,7,R&D Engineer,5,Engineering Roles
+17,7,Product Development Manager,2,Middle Management
+18,7,Research Scientist,4,Specialist Roles
+19,7,Innovation Strategist,4,Specialist Roles
+20,7,Prototype Engineer,6,Operational Roles
+21,8,Supply Chain Manager,2,Middle Management
+22,8,Procurement Specialist,4,Specialist Roles
+23,8,Logistics Coordinator,4,Specialist Roles
+24,8,Inventory Analyst,4,Specialist Roles
+25,8,Supplier Quality Engineer,4,Specialist Roles
+26,2,Financial Analyst,3,Team Leaders
+27,2,Accountant,4,Specialist Roles
+28,2,Controller,1,Top Management
+29,2,Treasurer,1,Top Management
+30,2,Cost Analyst,4,Specialist Roles
+31,5,Automotive Engineer,5,Engineering Roles
+32,5,Design Engineer,5,Engineering Roles
+33,5,Quality Engineer,5,Engineering Roles
+34,5,Systems Engineer,5,Engineering Roles
+35,5,Manufacturing Engineer,5,Engineering Roles
+36,6,Production Supervisor,6,Operational Roles
+37,6,Assembly Line Worker,6,Operational Roles
+38,6,Production Planner,6,Operational Roles
+39,6,Quality Control Inspector,6,Operational Roles
+40,6,Manufacturing Technician,6,Operational Roles
+41,10,Quality Assurance Manager,3,Team Leaders
+42,10,QA Analyst,4,Specialist Roles
+43,10,Compliance Specialist,4,Specialist Roles
+44,10,Test Engineer,5,Engineering Roles
+45,10,Quality Auditor,4,Specialist Roles
+46,4,IT Manager,2,Middle Management
+47,4,Systems Administrator,4,Specialist Roles
+48,4,Software Developer,4,Specialist Roles
+49,4,Network Engineer,4,Specialist Roles
+50,4,Data Analyst,4,Specialist Roles
+91,1,Chief Marketing Officer,99,CXO
+92,2,Chief Financial Officer,99,CXO
+93,4,Chief Information Officer,99,CXO
+94,6,Chief Operation Officer,99,CXO
+95,5,Chief Executive Officer,99,CXO

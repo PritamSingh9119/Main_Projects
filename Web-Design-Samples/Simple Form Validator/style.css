@@ -1,0 +1,90 @@
+html{
+    background-color:lightgray;
+
+}
+
+body{
+    margin: 0px;
+    height: 100vh;
+    background-color: rgb(103, 103, 201);
+    max-width: 1440px;
+    justify-content: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border:2.5px solid black;
+}
+
+.main_div{
+   display: inline-flex;
+   height: 750px;
+   margin-top: 150px;
+
+
+}
+
+.left_div{
+    display:inline-flex;
+    width: 550px;
+    margin-top: 125px;
+    margin-left: 100px;    
+}
+
+.vertical_line{
+    width: 25px;
+    height: 350px;
+    background-color: aliceblue;
+}
+
+.FVJ{
+    margin-left: 25px;
+    font-size: 100px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.right_div{
+    margin-left: 220px;
+    width:  400px;
+    height: 550px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.div_header{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.label_full_name, .label_email, .label_password, .label_birthdate, .label_gender{
+    display: block;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.full_name, .email, .password, .birthdate, .gender{
+    display: block;
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 90%;
+    height: 30px;
+}
+
+.clear,.submit{
+    margin-top: 30px;
+    width: 25%;
+    height: 30px;
+}
+
+.clear{
+    float: left;
+    margin-left: 65px;
+}
+
+.submit{
+    float: right;
+    margin-right: 65px;
+}
